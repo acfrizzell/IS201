@@ -1,0 +1,36 @@
+.header{
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+}
+.mainbody{
+    background-color: rgba(128, 128, 128, 0.585);
+}
+
+.common{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ycolor{
+    color: rgb(254, 254, 5);
+}
+
+.rcolor{
+    color: red;
+}
+
+.wcolor{
+    color: rgb(255, 255, 255);
+}
+
+.h2{
+    text-decoration: underline;
+}
+
+.position{
+    font-style: italic;
+}
+
+.rpoint{
+    font-style: normal;
+}
